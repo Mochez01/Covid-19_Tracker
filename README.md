@@ -75,30 +75,13 @@ COVID19/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/y/COVID19.git
-   cd COVID19
+   https://github.com/Mochez01/Covid-19_Tracker.git
+   cd Covid-19_Tracker
    ```
 
-2. Create a virtual environment (recommended):
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
 
-3. Install required packages:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-
-4. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-5. Open `covid-19_tracker.ipynb`
+. Open `covid-19_tracker.ipynb`
 
 ## Key Findings and Insights
 
